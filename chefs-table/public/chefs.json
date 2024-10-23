@@ -1,0 +1,98 @@
+[
+  {
+      "id": 1,
+      "title": "Spicy Garlic Shrimp",
+      "text": "A fiery blend of shrimp sautéed with garlic, chili flakes, and fresh herbs, served on a bed of fluffy rice.",
+      "image_link": "https://cafedelites.com/wp-content/uploads/2024/01/Chili-Shrimp-IMAGE-1.jpg",
+      "ingredients": [
+          "1 lb shrimp, peeled and deveined",
+          "4 cloves garlic, minced",
+          "1 tsp chili flakes",
+          "2 tbsp olive oil",
+          "2 cups cooked rice",
+          "Fresh parsley for garnish"
+      ],
+      "cooking_time": "20 minutes",
+      "calories": 300
+  },
+  {
+      "id": 2,
+      "title": "Classic Beef Stroganoff",
+      "text": "Tender beef strips cooked in a creamy mushroom sauce, served over egg noodles.",
+      "image_link": "https://www.sipandfeast.com/wp-content/uploads/2023/10/beef-stroganoff-recipe-snippet-3.jpg",
+      "ingredients": [
+          "1 lb beef sirloin, sliced",
+          "1 cup mushrooms, sliced",
+          "1 onion, chopped",
+          "2 cups beef broth",
+          "1 cup sour cream",
+          "Egg noodles for serving"
+      ],
+      "cooking_time": "45 minutes",
+      "calories": 500
+  },
+  {
+      "id": 3,
+      "title": "Mediterranean Quinoa Salad",
+      "text": "A refreshing salad with quinoa, cucumbers, tomatoes, feta cheese, and a lemon vinaigrette.",
+      "image_link": "https://www.healthygffamily.com/wp-content/uploads/2018/12/17759A54-2C2C-4B06-BBC1-417FC3DFB9E9.jpg",
+      "ingredients": [
+          "1 cup quinoa, cooked",
+          "1 cucumber, diced",
+          "1 cup cherry tomatoes, halved",
+          "1/2 cup feta cheese, crumbled",
+          "1/4 cup olive oil",
+          "Juice of 1 lemon"
+      ],
+      "cooking_time": "15 minutes",
+      "calories": 250
+  },
+  {
+      "id": 4,
+      "title": "Vegetable Stir-Fry",
+      "text": "A colorful mix of fresh vegetables stir-fried with soy sauce and sesame oil.",
+      "image_link": "https://images.themodernproper.com/billowy-turkey/production/posts/VegetableStirFry_9.jpg?w=1200&h=1200&q=60&fm=jpg&fit=crop&dm=1703377301&s=3484d660c4b404c6d23b0c3ec7ac66eb",
+      "ingredients": [
+          "2 cups mixed vegetables (broccoli, bell peppers, carrots)",
+          "3 tbsp soy sauce",
+          "2 tbsp sesame oil",
+          "1 tbsp ginger, minced",
+          "2 cloves garlic, minced",
+          "Cooked rice for serving"
+      ],
+      "cooking_time": "15 minutes",
+      "calories": 200
+  },
+  {
+      "id": 5,
+      "title": "Chocolate Chip Cookies",
+      "text": "Deliciously soft and chewy cookies loaded with chocolate chips.",
+      "image_link": "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/6-3-large.jpg?itok=TYPidbAr",
+      "ingredients": [
+          "2 1/4 cups all-purpose flour",
+          "1 cup butter, softened",
+          "3/4 cup granulated sugar",
+          "3/4 cup brown sugar",
+          "2 cups chocolate chips",
+          "2 eggs"
+      ],
+      "cooking_time": "30 minutes",
+      "calories": 150 
+  },
+  {
+      "id": 6,
+      "title": "Caprese Salad",
+      "text": "A simple salad with fresh mozzarella, tomatoes, basil, and balsamic glaze.",
+      "image_link": "https://hips.hearstapps.com/hmg-prod/images/caprese-salad-recipe-2-664ceea357d6f.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+      "ingredients": [
+          "2 large tomatoes, sliced",
+          "1 ball fresh mozzarella, sliced",
+          "Fresh basil leaves",
+          "2 tbsp balsamic glaze",
+          "Salt and pepper to taste",
+          "Olive oil for drizzling"
+      ],
+      "cooking_time": "10 minutes",
+      "calories": 180
+  }
+]
